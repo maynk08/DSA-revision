@@ -1,0 +1,2 @@
+Valid Palindrome ,validAnagrams ,validParantheses, longestCommonPrefix,  Print all the Duplicates in the Input String,Longest SubString without Repeating character, group Anagrams, Longest Palindromic Substring, Palidromic Substring,
+next permutation
